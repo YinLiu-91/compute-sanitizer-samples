@@ -10,3 +10,8 @@
 *~
 \#*
 dist
+*.d
+memset_error 
+memcheck_demo 
+block_error 
+warp_error
